@@ -76,8 +76,8 @@
 
 
 ## Github Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierhdzo&theme=dark" alt="JavierHdzO" /></p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JavierHdzO&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierhdzo&theme=ayu-mirage" alt="JavierHdzO" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JavierHdzO&show_icons=true&count_private=true&hide_border=true&theme=ayu-mirage" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierHdzO&hide_border=true&layout=compact" align="center" /></div>  
 
