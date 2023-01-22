@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Vue.js, Node.js and Nest.js  
   
 
-- ❓ Ask me about anything related to MEN stack and related technologies  
+- ❓ Ask me about anything related to MEVN stack and related technologies  
   
 
 <br/>  
