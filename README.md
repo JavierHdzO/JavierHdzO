@@ -1,12 +1,7 @@
 ## <div align="center">I'm Francisco,a full-stack web developer</div>  
   
 
-- 🌱 I’m currently learning Vue.js, Node.js and Nest.js  
-  
-
-- ❓ Ask me about anything related to MEVN stack and related technologies  
-  
-
+- 🌱 I’m currently .NET Developer
 <br/>  
 
 
